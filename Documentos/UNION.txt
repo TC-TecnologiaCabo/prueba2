@@ -1,0 +1,340 @@
+ACUERDO
+
+Un acuerdo es una determinaciÛn que toman dos o m·s Estados, 
+personas o empresas. La decisiÛn final de un acuerdo es el fruto de un proceso de negociaciÛn 
+entre las distintas partes.
+
+Para dotar de mayor fuerza a un acuerdo, es habitual que se formalicen por escrito. 
+De este modo, quedar·n recogidas y detalladas todas y cada una de las condiciones pactadas.
+
+Al igual que existen acuerdo entre particulares, entre empresas y entre particulares y empresas, 
+los paÌses tambiÈn tienen capacidad para sellar acuerdos. AsÌ, un acuerdo entre distintos Estados 
+se denomina tratado internacional.¬øQu√© es el Procesamiento del Lenguaje Natural?
+El Procesamiento del Lenguaje Natural o NLP es una disciplina que se encuentra en la 
+intersecci√≥n de varias ciencias, tales como las Ciencias de la Computaci√≥n, la Inteligencia 
+Artificial y Psicolog√≠a Cognitiva. Su idea central es la de darle a las m√°quinas la 
+capacidad de leer y comprender los idiomas que hablamos los humanos. La investigaci√≥n 
+del Procesamiento del Lenguaje Natural tiene como objetivo responder a la pregunta de c√≥mo 
+las personas son capaces de comprender el significado de una oraci√≥n oral / escrita y c√≥mo 
+las personas entienden lo que sucedi√≥, cu√°ndo y d√≥nde sucedi√≥; y las diferencias entre una 
+suposici√≥n, una creencia o un hecho.
+
+En general, en Procesamiento del Lenguaje Natural se utilizan seis niveles de comprensi√≥n 
+con el objetivo de descubrir el significado del discurso. Estos niveles son:
+‚Ä¢	Nivel fon√©tico: Aqu√≠ se presta atenci√≥n a la fon√©tica, la forma en que las palabras 
+son pronunciadas. Este nivel es importante cuando procesamos la palabra hablada, no as√≠ cuando 
+trabajamos con texto escrito.
+
+‚Ä¢	Nivel morfol√≥gico: Aqu√≠ nos interesa realizar un an√°lisis morfol√≥gico del discurso; 
+estudiar la estructura de las palabras para delimitarlas y clasificarlas.
+‚Ä¢	Nivel sint√°ctico: Aqu√≠ se realiza un an√°lisis de sintaxis, el cual incluye la acci√≥n 
+de dividir una oraci√≥n en cada uno de sus componentes.
+‚Ä¢	Nivel sem√°ntico: Este nivel es un complemente del anterior, en el an√°lisis sem√°ntico 
+se busca entender el significado de la oraci√≥n. Las palabras pueden tener m√∫ltiples significados, 
+la idea es identificar el significado apropiado por medio del contexto de la oraci√≥n.
+‚Ä¢	Nivel discursivo: El nivel discursivo examina el significado de la oraci√≥n en relaci√≥n a 
+otra oraci√≥n en el texto o p√°rrafo del mismo documento.
+‚Ä¢	Nivel pragm√°tico: Este nivel se ocupa del an√°lisis de oraciones y c√≥mo se usan en diferentes 
+situaciones. Adem√°s, tambi√©n c√≥mo su significado cambia dependiendo de la situaci√≥n.
+Todos los niveles descritos aqu√≠ son inseparables y se complementan entre s√≠. El objetivo de los 
+sistemas de NLP es incluir estas definiciones en una computadora y luego usarlas para crear una oraci√≥n 
+estructurada y sin ambig√ºedades con un significado bien definido.
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las tÈcnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de an·lisis que se debe efectuar al texto de entrada 
+para extraer informaciÛn especÌfica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonÈtico, Nivel fonÈmico, morfolÛgico, lÈxico, sint·ctico,
+ sem·ntico, del discurso y pragm·tico. 
+
+En un principio, el procesamiento del lenguaje natural se pensÛ 
+como un modelo secuencial que repetÌa una y otra vez la misma 
+secuencia de procesos para lograr la comprensiÛn de la entrada. 
+Desde el punto de vista psicoling¸Ìstico, se admite que el 
+
+procesamiento del lenguaje es mucho m·s simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes Ûrdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un an·lisis 
+
+se alimenta de los niveles m·s altos de procesamiento para asistir 
+
+a los de m·s bajo nivel. Por ejemplo, el conocimiento pragm·tico de 
+que un documento que se est· leyendo habla de inform·tica ser· utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretar· con un sentido ìinform·ticoî.
+
+ACUERDO
+
+Un acuerdo es una determinaciÛn que toman dos o m·s Estados, 
+personas o empresas. La decisiÛn final de un acuerdo es el fruto de un proceso de negociaciÛn 
+entre las distintas partes.
+
+Para dotar de mayor fuerza a un acuerdo, es habitual que se formalicen por escrito. 
+De este modo, quedar·n recogidas y detalladas todas y cada una de las condiciones pactadas.
+
+Al igual que existen acuerdo entre particulares, entre empresas y entre particulares y empresas, 
+los paÌses tambiÈn tienen capacidad para sellar acuerdos. AsÌ, un acuerdo entre distintos Estados 
+se denomina tratado internacional.¬øQu√© es el Procesamiento del Lenguaje Natural?
+El Procesamiento del Lenguaje Natural o NLP es una disciplina que se encuentra en la 
+intersecci√≥n de varias ciencias, tales como las Ciencias de la Computaci√≥n, la Inteligencia 
+Artificial y Psicolog√≠a Cognitiva. Su idea central es la de darle a las m√°quinas la 
+capacidad de leer y comprender los idiomas que hablamos los humanos. La investigaci√≥n 
+del Procesamiento del Lenguaje Natural tiene como objetivo responder a la pregunta de c√≥mo 
+las personas son capaces de comprender el significado de una oraci√≥n oral / escrita y c√≥mo 
+las personas entienden lo que sucedi√≥, cu√°ndo y d√≥nde sucedi√≥; y las diferencias entre una 
+suposici√≥n, una creencia o un hecho.
+
+En general, en Procesamiento del Lenguaje Natural se utilizan seis niveles de comprensi√≥n 
+con el objetivo de descubrir el significado del discurso. Estos niveles son:
+‚Ä¢	Nivel fon√©tico: Aqu√≠ se presta atenci√≥n a la fon√©tica, la forma en que las palabras 
+son pronunciadas. Este nivel es importante cuando procesamos la palabra hablada, no as√≠ cuando 
+trabajamos con texto escrito.
+
+‚Ä¢	Nivel morfol√≥gico: Aqu√≠ nos interesa realizar un an√°lisis morfol√≥gico del discurso; 
+estudiar la estructura de las palabras para delimitarlas y clasificarlas.
+‚Ä¢	Nivel sint√°ctico: Aqu√≠ se realiza un an√°lisis de sintaxis, el cual incluye la acci√≥n 
+de dividir una oraci√≥n en cada uno de sus componentes.
+‚Ä¢	Nivel sem√°ntico: Este nivel es un complemente del anterior, en el an√°lisis sem√°ntico 
+se busca entender el significado de la oraci√≥n. Las palabras pueden tener m√∫ltiples significados, 
+la idea es identificar el significado apropiado por medio del contexto de la oraci√≥n.
+‚Ä¢	Nivel discursivo: El nivel discursivo examina el significado de la oraci√≥n en relaci√≥n a 
+otra oraci√≥n en el texto o p√°rrafo del mismo documento.
+‚Ä¢	Nivel pragm√°tico: Este nivel se ocupa del an√°lisis de oraciones y c√≥mo se usan en diferentes 
+situaciones. Adem√°s, tambi√©n c√≥mo su significado cambia dependiendo de la situaci√≥n.
+Todos los niveles descritos aqu√≠ son inseparables y se complementan entre s√≠. El objetivo de los 
+sistemas de NLP es incluir estas definiciones en una computadora y luego usarlas para crear una oraci√≥n 
+estructurada y sin ambig√ºedades con un significado bien definido.
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las tÈcnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de an·lisis que se debe efectuar al texto de entrada 
+para extraer informaciÛn especÌfica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonÈtico, Nivel fonÈmico, morfolÛgico, lÈxico, sint·ctico,
+ sem·ntico, del discurso y pragm·tico. 
+
+En un principio, el procesamiento del lenguaje natural se pensÛ 
+como un modelo secuencial que repetÌa una y otra vez la misma 
+secuencia de procesos para lograr la comprensiÛn de la entrada. 
+Desde el punto de vista psicoling¸Ìstico, se admite que el 
+
+procesamiento del lenguaje es mucho m·s simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes Ûrdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un an·lisis 
+
+se alimenta de los niveles m·s altos de procesamiento para asistir 
+
+a los de m·s bajo nivel. Por ejemplo, el conocimiento pragm·tico de 
+que un documento que se est· leyendo habla de inform·tica ser· utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretar· con un sentido ìinform·ticoî.
+
+ACUERDO
+
+Un acuerdo es una determinaciÛn que toman dos o m·s Estados, 
+personas o empresas. La decisiÛn final de un acuerdo es el fruto de un proceso de negociaciÛn 
+entre las distintas partes.
+
+Para dotar de mayor fuerza a un acuerdo, es habitual que se formalicen por escrito. 
+De este modo, quedar·n recogidas y detalladas todas y cada una de las condiciones pactadas.
+
+Al igual que existen acuerdo entre particulares, entre empresas y entre particulares y empresas, 
+los paÌses tambiÈn tienen capacidad para sellar acuerdos. AsÌ, un acuerdo entre distintos Estados 
+se denomina tratado internacional.¬øQu√© es el Procesamiento del Lenguaje Natural?
+El Procesamiento del Lenguaje Natural o NLP es una disciplina que se encuentra en la 
+intersecci√≥n de varias ciencias, tales como las Ciencias de la Computaci√≥n, la Inteligencia 
+Artificial y Psicolog√≠a Cognitiva. Su idea central es la de darle a las m√°quinas la 
+capacidad de leer y comprender los idiomas que hablamos los humanos. La investigaci√≥n 
+del Procesamiento del Lenguaje Natural tiene como objetivo responder a la pregunta de c√≥mo 
+las personas son capaces de comprender el significado de una oraci√≥n oral / escrita y c√≥mo 
+las personas entienden lo que sucedi√≥, cu√°ndo y d√≥nde sucedi√≥; y las diferencias entre una 
+suposici√≥n, una creencia o un hecho.
+
+En general, en Procesamiento del Lenguaje Natural se utilizan seis niveles de comprensi√≥n 
+con el objetivo de descubrir el significado del discurso. Estos niveles son:
+‚Ä¢	Nivel fon√©tico: Aqu√≠ se presta atenci√≥n a la fon√©tica, la forma en que las palabras 
+son pronunciadas. Este nivel es importante cuando procesamos la palabra hablada, no as√≠ cuando 
+trabajamos con texto escrito.
+
+‚Ä¢	Nivel morfol√≥gico: Aqu√≠ nos interesa realizar un an√°lisis morfol√≥gico del discurso; 
+estudiar la estructura de las palabras para delimitarlas y clasificarlas.
+‚Ä¢	Nivel sint√°ctico: Aqu√≠ se realiza un an√°lisis de sintaxis, el cual incluye la acci√≥n 
+de dividir una oraci√≥n en cada uno de sus componentes.
+‚Ä¢	Nivel sem√°ntico: Este nivel es un complemente del anterior, en el an√°lisis sem√°ntico 
+se busca entender el significado de la oraci√≥n. Las palabras pueden tener m√∫ltiples significados, 
+la idea es identificar el significado apropiado por medio del contexto de la oraci√≥n.
+‚Ä¢	Nivel discursivo: El nivel discursivo examina el significado de la oraci√≥n en relaci√≥n a 
+otra oraci√≥n en el texto o p√°rrafo del mismo documento.
+‚Ä¢	Nivel pragm√°tico: Este nivel se ocupa del an√°lisis de oraciones y c√≥mo se usan en diferentes 
+situaciones. Adem√°s, tambi√©n c√≥mo su significado cambia dependiendo de la situaci√≥n.
+Todos los niveles descritos aqu√≠ son inseparables y se complementan entre s√≠. El objetivo de los 
+sistemas de NLP es incluir estas definiciones en una computadora y luego usarlas para crear una oraci√≥n 
+estructurada y sin ambig√ºedades con un significado bien definido.
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las tÈcnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de an·lisis que se debe efectuar al texto de entrada 
+para extraer informaciÛn especÌfica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonÈtico, Nivel fonÈmico, morfolÛgico, lÈxico, sint·ctico,
+ sem·ntico, del discurso y pragm·tico. 
+
+En un principio, el procesamiento del lenguaje natural se pensÛ 
+como un modelo secuencial que repetÌa una y otra vez la misma 
+secuencia de procesos para lograr la comprensiÛn de la entrada. 
+Desde el punto de vista psicoling¸Ìstico, se admite que el 
+
+procesamiento del lenguaje es mucho m·s simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes Ûrdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un an·lisis 
+
+se alimenta de los niveles m·s altos de procesamiento para asistir 
+
+a los de m·s bajo nivel. Por ejemplo, el conocimiento pragm·tico de 
+que un documento que se est· leyendo habla de inform·tica ser· utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretar· con un sentido ìinform·ticoî.
+
+ACUERDO
+
+Un acuerdo es una determinaciÛn que toman dos o m·s Estados, 
+personas o empresas. La decisiÛn final de un acuerdo es el fruto de un proceso de negociaciÛn 
+entre las distintas partes.
+
+Para dotar de mayor fuerza a un acuerdo, es habitual que se formalicen por escrito. 
+De este modo, quedar·n recogidas y detalladas todas y cada una de las condiciones pactadas.
+
+Al igual que existen acuerdo entre particulares, entre empresas y entre particulares y empresas, 
+los paÌses tambiÈn tienen capacidad para sellar acuerdos. AsÌ, un acuerdo entre distintos Estados 
+se denomina tratado internacional.¬øQu√© es el Procesamiento del Lenguaje Natural?
+El Procesamiento del Lenguaje Natural o NLP es una disciplina que se encuentra en la 
+intersecci√≥n de varias ciencias, tales como las Ciencias de la Computaci√≥n, la Inteligencia 
+Artificial y Psicolog√≠a Cognitiva. Su idea central es la de darle a las m√°quinas la 
+capacidad de leer y comprender los idiomas que hablamos los humanos. La investigaci√≥n 
+del Procesamiento del Lenguaje Natural tiene como objetivo responder a la pregunta de c√≥mo 
+las personas son capaces de comprender el significado de una oraci√≥n oral / escrita y c√≥mo 
+las personas entienden lo que sucedi√≥, cu√°ndo y d√≥nde sucedi√≥; y las diferencias entre una 
+suposici√≥n, una creencia o un hecho.
+
+En general, en Procesamiento del Lenguaje Natural se utilizan seis niveles de comprensi√≥n 
+con el objetivo de descubrir el significado del discurso. Estos niveles son:
+‚Ä¢	Nivel fon√©tico: Aqu√≠ se presta atenci√≥n a la fon√©tica, la forma en que las palabras 
+son pronunciadas. Este nivel es importante cuando procesamos la palabra hablada, no as√≠ cuando 
+trabajamos con texto escrito.
+
+‚Ä¢	Nivel morfol√≥gico: Aqu√≠ nos interesa realizar un an√°lisis morfol√≥gico del discurso; 
+estudiar la estructura de las palabras para delimitarlas y clasificarlas.
+‚Ä¢	Nivel sint√°ctico: Aqu√≠ se realiza un an√°lisis de sintaxis, el cual incluye la acci√≥n 
+de dividir una oraci√≥n en cada uno de sus componentes.
+‚Ä¢	Nivel sem√°ntico: Este nivel es un complemente del anterior, en el an√°lisis sem√°ntico 
+se busca entender el significado de la oraci√≥n. Las palabras pueden tener m√∫ltiples significados, 
+la idea es identificar el significado apropiado por medio del contexto de la oraci√≥n.
+‚Ä¢	Nivel discursivo: El nivel discursivo examina el significado de la oraci√≥n en relaci√≥n a 
+otra oraci√≥n en el texto o p√°rrafo del mismo documento.
+‚Ä¢	Nivel pragm√°tico: Este nivel se ocupa del an√°lisis de oraciones y c√≥mo se usan en diferentes 
+situaciones. Adem√°s, tambi√©n c√≥mo su significado cambia dependiendo de la situaci√≥n.
+Todos los niveles descritos aqu√≠ son inseparables y se complementan entre s√≠. El objetivo de los 
+sistemas de NLP es incluir estas definiciones en una computadora y luego usarlas para crear una oraci√≥n 
+estructurada y sin ambig√ºedades con un significado bien definido.
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las tÈcnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de an·lisis que se debe efectuar al texto de entrada 
+para extraer informaciÛn especÌfica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonÈtico, Nivel fonÈmico, morfolÛgico, lÈxico, sint·ctico,
+ sem·ntico, del discurso y pragm·tico. 
+
+En un principio, el procesamiento del lenguaje natural se pensÛ 
+como un modelo secuencial que repetÌa una y otra vez la misma 
+secuencia de procesos para lograr la comprensiÛn de la entrada. 
+Desde el punto de vista psicoling¸Ìstico, se admite que el 
+
+procesamiento del lenguaje es mucho m·s simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes Ûrdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un an·lisis 
+
+se alimenta de los niveles m·s altos de procesamiento para asistir 
+
+a los de m·s bajo nivel. Por ejemplo, el conocimiento pragm·tico de 
+que un documento que se est· leyendo habla de inform·tica ser· utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretar· con un sentido ìinform·ticoî.
+
+ACUERDO
+
+Un acuerdo es una determinaciÛn que toman dos o m·s Estados, 
+personas o empresas. La decisiÛn final de un acuerdo es el fruto de un proceso de negociaciÛn 
+entre las distintas partes.
+
+Para dotar de mayor fuerza a un acuerdo, es habitual que se formalicen por escrito. 
+De este modo, quedar·n recogidas y detalladas todas y cada una de las condiciones pactadas.
+
+Al igual que existen acuerdo entre particulares, entre empresas y entre particulares y empresas, 
+los paÌses tambiÈn tienen capacidad para sellar acuerdos. AsÌ, un acuerdo entre distintos Estados 
+se denomina tratado internacional.¬øQu√© es el Procesamiento del Lenguaje Natural?
+El Procesamiento del Lenguaje Natural o NLP es una disciplina que se encuentra en la 
+intersecci√≥n de varias ciencias, tales como las Ciencias de la Computaci√≥n, la Inteligencia 
+Artificial y Psicolog√≠a Cognitiva. Su idea central es la de darle a las m√°quinas la 
+capacidad de leer y comprender los idiomas que hablamos los humanos. La investigaci√≥n 
+del Procesamiento del Lenguaje Natural tiene como objetivo responder a la pregunta de c√≥mo 
+las personas son capaces de comprender el significado de una oraci√≥n oral / escrita y c√≥mo 
+las personas entienden lo que sucedi√≥, cu√°ndo y d√≥nde sucedi√≥; y las diferencias entre una 
+suposici√≥n, una creencia o un hecho.
+
+En general, en Procesamiento del Lenguaje Natural se utilizan seis niveles de comprensi√≥n 
+con el objetivo de descubrir el significado del discurso. Estos niveles son:
+‚Ä¢	Nivel fon√©tico: Aqu√≠ se presta atenci√≥n a la fon√©tica, la forma en que las palabras 
+son pronunciadas. Este nivel es importante cuando procesamos la palabra hablada, no as√≠ cuando 
+trabajamos con texto escrito.
+
+‚Ä¢	Nivel morfol√≥gico: Aqu√≠ nos interesa realizar un an√°lisis morfol√≥gico del discurso; 
+estudiar la estructura de las palabras para delimitarlas y clasificarlas.
+‚Ä¢	Nivel sint√°ctico: Aqu√≠ se realiza un an√°lisis de sintaxis, el cual incluye la acci√≥n 
+de dividir una oraci√≥n en cada uno de sus componentes.
+‚Ä¢	Nivel sem√°ntico: Este nivel es un complemente del anterior, en el an√°lisis sem√°ntico 
+se busca entender el significado de la oraci√≥n. Las palabras pueden tener m√∫ltiples significados, 
+la idea es identificar el significado apropiado por medio del contexto de la oraci√≥n.
+‚Ä¢	Nivel discursivo: El nivel discursivo examina el significado de la oraci√≥n en relaci√≥n a 
+otra oraci√≥n en el texto o p√°rrafo del mismo documento.
+‚Ä¢	Nivel pragm√°tico: Este nivel se ocupa del an√°lisis de oraciones y c√≥mo se usan en diferentes 
+situaciones. Adem√°s, tambi√©n c√≥mo su significado cambia dependiendo de la situaci√≥n.
+Todos los niveles descritos aqu√≠ son inseparables y se complementan entre s√≠. El objetivo de los 
+sistemas de NLP es incluir estas definiciones en una computadora y luego usarlas para crear una oraci√≥n 
+estructurada y sin ambig√ºedades con un significado bien definido.
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las tÈcnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de an·lisis que se debe efectuar al texto de entrada 
+para extraer informaciÛn especÌfica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonÈtico, Nivel fonÈmico, morfolÛgico, lÈxico, sint·ctico,
+ sem·ntico, del discurso y pragm·tico. 
+
+En un principio, el procesamiento del lenguaje natural se pensÛ 
+como un modelo secuencial que repetÌa una y otra vez la misma 
+secuencia de procesos para lograr la comprensiÛn de la entrada. 
+Desde el punto de vista psicoling¸Ìstico, se admite que el 
+
+procesamiento del lenguaje es mucho m·s simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes Ûrdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un an·lisis 
+
+se alimenta de los niveles m·s altos de procesamiento para asistir 
+
+a los de m·s bajo nivel. Por ejemplo, el conocimiento pragm·tico de 
+que un documento que se est· leyendo habla de inform·tica ser· utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretar· con un sentido ìinform·ticoî.
+

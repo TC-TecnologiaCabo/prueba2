@@ -2,12 +2,13 @@
 
 '''
 El ejercicio consiste en utilizar el acento circunflejo de expresiÃ³n regular sobre cada lÃ­nea de un texto.
+prueba de que se modifica arriba y abajo
 '''
 
 import re
 
-carpeta_nombre="D:\\oswaldo\\FIME ENE-AGO 2022\\PLN\\programas-phyton\\Documentos\\"
-archivo_nombre="documento2.txt"
+carpeta_nombre="Documentos\\"
+archivo_nombre="documento3.txt"
 # -*- coding: utf-8 -*-
 
 '''

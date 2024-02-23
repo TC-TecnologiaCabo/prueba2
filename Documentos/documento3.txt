@@ -1,0 +1,27 @@
+1.2 Niveles de Procesamiento del Lenguaje Natural
+Las técnicas de NLP pueden ser organizadas en diferentes 
+niveles de procesamiento. Cada uno de estos niveles representa 
+un tipo de análisis que se debe efectuar al texto de entrada 
+para extraer información específica. 
+
+Los diferentes niveles de procesamiento existentes son: 
+Nivel fonético, Nivel fonémico, morfológico, léxico, sintáctico,
+ semántico, del discurso y pragmático. 
+
+En un principio, el procesamiento del lenguaje natural se pensó 
+como un modelo secuencial que repetía una y otra vez la misma 
+secuencia de procesos para lograr la comprensión de la entrada. 
+Desde el punto de vista psicolingüístico, se admite que el 
+
+procesamiento del lenguaje es mucho más simple si se plantea 
+una vista de niveles que pueden interactuar en diferentes órdenes. 
+Partiendo del conocimiento existente sobre el lenguaje, un análisis 
+
+se alimenta de los niveles más altos de procesamiento para asistir 
+
+a los de más bajo nivel. Por ejemplo, el conocimiento pragmático de 
+que un documento que se está leyendo habla de informática será utilizado 
+cuando una palabra en particular tenga varios sentidos o significados. 
+
+De esta manera, esta palabra se interpretará con un sentido “informático”.
+
